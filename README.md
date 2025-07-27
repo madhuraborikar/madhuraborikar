@@ -8,7 +8,7 @@ Hi there! 👋 I’m Madhura Borikar, a passionate and curious learner currently
 
 I’ve recently started my journey with GitHub, aiming to use it as a platform to showcase my learning, projects, and growth. My interests span across:
 
-📊 Data Analysis (Python, Excel)
+📊 Data Analysis (Python, Excel, PowerBI)
 
 💻 Programming (Python,)
 
